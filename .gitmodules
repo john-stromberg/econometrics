@@ -1,0 +1,18 @@
+[submodule "panel-data-models-r"]
+	path = panel-data-models-r
+	url = https://github.com/john-stromberg/panel-data-models-r.git
+[submodule "causal-inference-did-event-study-r"]
+	path = causal-inference-did-event-study-r
+	url = https://github.com/john-stromberg/causal-inference-did-event-study-r.git
+[submodule "synthetic-control-lab-r"]
+	path = synthetic-control-lab-r
+	url = https://github.com/john-stromberg/synthetic-control-lab-r.git
+[submodule "iv-rdd-toolkit-r"]
+	path = iv-rdd-toolkit-r
+	url = https://github.com/john-stromberg/iv-rdd-toolkit-r.git
+[submodule "time-series-econometrics-var-vecm-r"]
+	path = time-series-econometrics-var-vecm-r
+	url = https://github.com/john-stromberg/time-series-econometrics-var-vecm-r.git
+[submodule "forecasting-nowcasting-lab-r"]
+	path = forecasting-nowcasting-lab-r
+	url = https://github.com/john-stromberg/forecasting-nowcasting-lab-r.git
