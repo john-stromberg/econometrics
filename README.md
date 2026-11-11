@@ -1,3 +1,8 @@
+> **Moved:** The projects indexed here are maintained in [quant-research-r](https://github.com/john-stromberg/quant-research-r).
+> This repository is retained as a historical snapshot.
+
+---
+
 # econometrics
 
 Parent hub repository for econometrics projects organized as git submodules.
